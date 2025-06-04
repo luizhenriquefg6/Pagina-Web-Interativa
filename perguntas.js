@@ -1,7 +1,7 @@
 criaCartao(
-    'Felicidades',
-    'O que precisa para ser feliz?',
-    ' Fazer o que gosta!!!'
+    'História',
+    'Qual foi o motivo razão na qual motivou a Segunda Guerra Mundial?',
+    ' A Segunda Guerra Mundial (1939-1945) foi desencadeada por uma combinação de fatores, incluindo o revanchismo alemão após a Primeira Guerra Mundial, o expansionismo nazifascista e a invasão da Polônia pela Alemanha em 1º de setembro de 1939. '
 )
 
 criaCartao(
