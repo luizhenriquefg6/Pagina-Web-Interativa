@@ -7,17 +7,17 @@ criaCartao(
 criaCartao(
     'Informática',
     'Qual o melhor site para programação?',
-    'GitHub'
+    'GitHub.'
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
-    'A que mais se dedica as aulas do Prof. Rafael?',
-    'Estou em dúvida'
+    'Geografia',
+    'Quais o menor e o maior país do mundo?',
+    'Vaticano e Rússia.'
 )
 
 criaCartao(
-    'Ganhando o Mundo',
-    'Quem participou do Programa Ganhado o mundo em 2024?',
-    'Eloisa Amorim dos Santos 👏👏👏'
+    'Filosofia',
+    'De quem é a famosa frase “Penso, logo existo”?',
+    'Descartes.'
 )
