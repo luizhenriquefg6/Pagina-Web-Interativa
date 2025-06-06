@@ -1,13 +1,13 @@
 criaCartao(
     'História',
     'Qual foi o motivo razão na qual motivou a Segunda Guerra Mundial?',
-    ' O revanchismo alemão após a humilhação e as condições impostas pelo Tratado de Versalhes, que culminou com a ascensão do nazismo e a política expansionista de Hitler. '
+    'O revanchismo alemão após a humilhação e as condições impostas pelo Tratado de Versalhes, que culminou com a ascensão do nazismo e a política expansionista de Hitler.'
 )
 
 criaCartao(
     'Informática',
-    'Qual o melhor canal para aprender informática',
-    '@rasinformática'
+    'Qual o melhor site para programação?',
+    'GitHub'
 )
 
 criaCartao(
